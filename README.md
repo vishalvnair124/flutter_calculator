@@ -60,5 +60,5 @@ flutter_calculator/
 ## 👨‍💻 Made With ❤️ By
 
 **Vishal V Nair**
-🚀 MCA @ TKM | Flutter Enthusiast
+🚀Flutter Enthusiast
 📫 GitHub: [@vishalvnair124](https://github.com/vishalvnair124)
